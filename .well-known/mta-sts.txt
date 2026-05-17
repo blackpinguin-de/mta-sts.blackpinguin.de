@@ -1,0 +1,9 @@
+version: STSv1
+mode: testing
+max_age: 86400
+mx: mail.blackpinguin.de
+mx: prime7.blackpinguin.de
+mx: *.blackpinguin.de
+mx: mx10.kundencontroller.de
+mx: mx20.kundencontroller.de
+mx: *.kundencontroller.de
